@@ -22,8 +22,8 @@ Para acessar a nossa documentação [clique aqui](https://mdsreq-fga-unb.github.
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/caua0">
-        <img src="https://github.com/caua0.png" width="190" style="border-radius: 50%;" alt="Cauã Araujo"/>
+      <a href="https://github.com/caua08">
+        <img src="https://github.com/caua08.png" width="190" style="border-radius: 50%;" alt="Cauã Araujo"/>
         <br/><sub><b>Cauã Araujo - 221022490</b></sub>
       </a>
     </td>

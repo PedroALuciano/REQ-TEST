@@ -7,8 +7,9 @@ site_name: Meu Capilar
 nav:
    - Home: index.md
    - Visão do produto e projeto:
-        - Cenário atual do cliente e do negócio: sessao1.md
-
+      - Cenário atual do cliente e do negócio: unidade1/sessao1.md
+      - Solução proposta: unidade1/sessao2.md
+      
 
 theme:
    name: material 
